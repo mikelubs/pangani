@@ -1,0 +1,46 @@
+ .head {
+  background: rgb(37, 59, 128);
+  padding: 30px 0;
+  border-radius: 0!important;
+}
+
+.header-row {
+  background: rgb(37, 59, 128);
+  margin: 0 5%;
+}
+
+.main-menu a {
+  color: #fff! important;
+}
+
+.links a {
+  background: rgb(37, 59, 128)!important;
+  font-family: 'Reem Kufi', sans-serif;
+  letter-spacing: 1px;
+  font-size: 1.2em;
+}
+
+.links a:active {
+  background: rgb(37, 59, 128)!important;
+}
+
+.links a:hover {
+  background-color: none!important;
+  color: grey!important;
+}
+
+.logo-lg {
+  padding: 0px 15px;
+}
+
+.dropdown-background {
+  background: rgb(37, 59, 128);
+}
+
+.navbar-toggle:hover {
+  background-color: rgb(0, 0, 77)!important;
+}
+
+.navbar-inverse .navbar-toggle {
+  border-color: rgb(0, 0, 77)!important;
+}
