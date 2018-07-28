@@ -389,7 +389,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-hero .flexslider .flex-control-nav li a.flex-active {
   cursor: pointer;
   background: transparent;
-  border: 2px solid #66D37E;
+  border: 2px solid #337ab7;
 }
 #fh5co-hero .flexslider .flex-direction-nav {
   display: none;
@@ -415,7 +415,7 @@ h1, h2, h3, h4, h5, h6, figure {
   margin: 0;
   padding: 0;
   color: black;
-  font-family: "Oxygen", sans-serif;
+  font-family: 'Reem Kufi', sans-serif;
 }
 #fh5co-hero .flexslider .slider-text > .slider-text-inner h1 {
   margin-bottom: 20px;
@@ -1143,7 +1143,7 @@ input[type="text"] {
 .btn {
   margin-right: 4px;
   margin-bottom: 4px;
-  font-family: "Oxygen", sans-serif;
+  font-family: 'Reem Kufi', sans-serif;
   font-size: 16px;
   font-weight: 400;
   -webkit-border-radius: 1px;
@@ -1167,13 +1167,13 @@ input[type="text"] {
 }
 
 .btn-primary {
-  background: #66D37E;
+  background: #337ab7;
   color: #fff;
   border: 2px solid #66D37E;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background: #7ad98f !important;
-  border-color: #7ad98f !important;
+  background: rgb(0, 0, 77) !important;
+  border-color: rgb(0, 0, 77) !important;
 }
 .btn-primary.btn-outline {
   background: transparent;
@@ -1271,6 +1271,14 @@ input[type="text"] {
 }
 .btn-outline:hover, .btn-outline:focus, .btn-outline:active {
   box-shadow: none;
+}
+
+.btn-demo {
+  color: #fff!important;
+}
+
+.btn-learn:hover {
+  color: #fff!important;
 }
 
 .btn.with-arrow {
