@@ -6,6 +6,17 @@ SITE HEADER
   padding: 30px 0;
   border-radius: 0!important;
   margin: 0!important;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 1020;
+}
+
+.top-most{
+  width: 100%;
+  height: 5px;
+  margin: 0;
+  background-color: #337ab7;
 }
 
 .header-row {
