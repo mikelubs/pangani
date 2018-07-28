@@ -32,7 +32,7 @@ SITE HEADER
   background: rgb(37, 59, 128)!important;
   font-family: 'Reem Kufi', sans-serif;
   letter-spacing: 1px;
-  font-size: 1.2em;
+  font-size: 1.2em!important;
 }
 
 .links a:active {
