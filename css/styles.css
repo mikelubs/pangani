@@ -23,6 +23,7 @@ SITE HEADER
 .header-row {
   background: rgb(37, 59, 128);
   margin: 0 5%;
+  padding: 0;
 }
 
 .main-menu a {
@@ -46,7 +47,8 @@ SITE HEADER
 }
 
 .logo-lg {
-  padding: 0px 15px;
+  padding: 0px;
+  position: absolute;
 }
 
 .dropdown-background {
