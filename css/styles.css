@@ -70,6 +70,10 @@ SLIDER
   color: #fff!important;
 }
 
+.slider-text-inner h1 {
+  color: #fff!important;
+}
+
 .overlay-gradient {
     position: absolute;
     display: block;
@@ -81,7 +85,7 @@ SLIDER
     bottom: 0;
     background-color: rgba(0,0,0,0.5);
     z-index: 2;
-    cursor: pointer;
+    cursor: auto;
 }
 
 /*******************************************************************************************
