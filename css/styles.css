@@ -85,22 +85,3 @@ SLIDER
 /*******************************************************************************************
 MOTTO
 *******************************************************************************************/
-#fh5co-services {
-  background-color: #179bd7!important;
-}
-
-.desc h3 {
-  color: #000 !important;
-  font-family: 'Reem Kufi', sans-serif;
-  letter-spacing: 1px;
-  font-size: 1.4em;
-
-}
-
-.desc p {
-  color: #fff!important;
-  font-family: 'Reem Kufi', sans-serif;
-  letter-spacing: 1px;
-  font-size: 1.4em;
-font-weight: lighter;
-}
