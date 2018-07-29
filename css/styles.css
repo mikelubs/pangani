@@ -48,7 +48,7 @@ SITE HEADER
 
 .logo-lg {
   padding: 0px;
-  position: absolute;
+  margin-bottom: 40px!important;
 }
 
 .dropdown-background {
