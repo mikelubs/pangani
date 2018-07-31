@@ -99,6 +99,50 @@ SLIDER
 /*******************************************************************************************
 PRINCIPAL
 *******************************************************************************************/
-.principal-row {
-  margin: 0 5%!important;
+
+#team {
+	color: #fff;
+	background: #a7c44c url(../img/team-bg.jpg) center top no-repeat;
+	background-size: cover;
+}
+#team .overlay {
+	padding: 70px 0;
+	background: rgb(23, 155, 215, 0.9);
+}
+#team h2, #team p {
+	color: #fff;
+  font-family: 'Reem Kufi', sans-serif;
+}
+#team hr {
+	background: #fff;
+}
+#team h3 {
+	color: #fff;
+	font-weight: 500;
+	font-size: 20px;
+	margin: 5px 0;
+  font-family: 'Reem Kufi', sans-serif;
+}
+#team .team-img {
+	width: 200px;
+	height: 200px;
+	border-radius: 50px 0 50px 0;
+	box-shadow: 15px 0 #fff;
+}
+#team .thumbnail {
+	background: transparent;
+	border: 0;
+}
+#team .thumbnail .caption {
+	padding-top: 10px;
+}
+#team .thumbnail .caption p {
+	color: #fff;
+}
+
+.section-title {
+	margin-bottom: 70px;
+}
+.section-title p {
+	font-size: 18px;
 }
