@@ -106,13 +106,14 @@ PRINCIPAL
 	background-size: cover;
 }
 #team .overlay {
-	padding: 70px 0;
+	padding: 40px 0;
 	background: rgb(23, 155, 215, 0.9);
 }
 #team h2, #team p {
 	color: #fff;
   font-family: 'Reem Kufi', sans-serif;
 }
+
 #team hr {
 	background: #fff;
 }
@@ -138,11 +139,12 @@ PRINCIPAL
 }
 #team .thumbnail .caption p {
 	color: #fff;
+  font-size: 1.2em;
 }
 
 .section-title {
 	margin-bottom: 70px;
 }
 .section-title p {
-	font-size: 18px;
+	font-size: 1.6em!important;
 }
