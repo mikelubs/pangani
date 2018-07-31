@@ -128,7 +128,7 @@ PRINCIPAL
 	width: 200px;
 	height: 200px;
 	border-radius: 50px 0 50px 0;
-	box-shadow: 15px 0 #fff;
+	box-shadow: 15px 0 rgb(37, 59, 128);
 }
 #team .thumbnail {
 	background: transparent;
